@@ -1,4 +1,4 @@
-scala_newbie
+scala_lab
 ============
 
 一些学习scala过程中的example
